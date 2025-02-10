@@ -1,6 +1,5 @@
 import './NowPlayingSection.scss';
 import { VideoPlayer } from './Player.jsx';
-import { Lyrics } from './Lyrics.jsx';
 import { Controller } from './Controller.jsx';
 
 import { MdKeyboardArrowUp } from 'react-icons/md';

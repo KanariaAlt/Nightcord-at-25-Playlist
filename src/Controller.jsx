@@ -35,9 +35,9 @@ export function Controller(props) {
 
 	useEffect(() => {
 		if (isPaused) {
-			document.title = "JELEE MUSIC";
+			document.title = "Miku-Playlist";
 		} else {
-			document.title = `JELEE MUSIC | ${queueManager.currentSong?.name ?? "JELEE MUSIC"} - ${queueManager.currentSong?.artist}`;
+			document.title = `Miku-Playlist | ${queueManager.currentSong?.name ?? "Miku-Playlist"} - ${queueManager.currentSong?.artist}`;
 		}
 	}, [queueManager.currentSong, isPaused]);
 

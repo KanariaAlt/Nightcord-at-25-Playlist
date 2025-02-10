@@ -23,7 +23,7 @@ function App() {
 					</>
 				}
 			>
-				JELEE MUSIC
+				Miku-Playlist
 				{' '}
 				<SongCount/>
 			</TopAppBar>

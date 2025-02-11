@@ -18,5 +18,25 @@
         "note": null,
         "hidden": null,
         "cover": "miku.jpg"
+    },
+    {
+        "name": "未来(いつか) / 駒木優 feat.初音ミク & 闇音レンリ",
+        "artist": "relier",
+        "singer": "hatsune-miku",
+        "translatedName": "",
+        "length": "5:15",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2024-04-14T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=WY1Qxyy33PU",
+        "desc": "/",
+        "staff": "Vocal：hatsune-miku",
+        "fileName": "未来(いつか) / 駒木優.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "https://static.zerochan.net/Hatsune.Miku.1024.3593804.webp"
     }
 ]

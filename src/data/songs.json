@@ -1,5 +1,25 @@
 [
     {
+        "name": "Crystal Snow / Aqu3ra feat. Hatsune Miku",
+        "artist": "Aqu3ra",
+        "singer": "hatsune-miku",
+        "translatedName": "",
+        "length": "3:45",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2025-01-10T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=QcHZdiVD0Ww",
+        "desc": "/",
+        "staff": "Vocal：hatsune-miku",
+        "fileName": "Crystal Snow / Aqu3ra feat. Hatsune Miku.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "snowmiku.jpg"
+    },
+    {
         "name": "可愛くてごめん／まふまふ【歌ってみた】",
         "artist": "まふまふ  ",
         "singer": "まふまふ  ",

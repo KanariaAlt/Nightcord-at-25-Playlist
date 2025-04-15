@@ -1,5 +1,25 @@
 [
     {
+        "name": "Rokudenashi - Starry Silent Night",
+        "artist": "Rokudenashi",
+        "singer": "Rokudenashi",
+        "translatedName": "",
+        "length": "3:10",
+        "type": "Standalone",
+        "hasLyrics": "Yes",
+        "album": "",
+        "releaseDate": "2023-12-27T00:00:00.000Z",
+        "link": "https://www.youtube.com/watch?v=kwaMeEJCwFs",
+        "desc": "/",
+        "staff": "Rokudenashi",
+        "fileName": " Rokudenashi - Starry Silent Night.flac",
+        "quality": "Lossless",
+        "highestQuality": "Yes",
+        "note": null,
+        "hidden": null,
+        "cover": "night.jpg"
+    },
+    {
         "name": "【東方】Bad Apple!! ＰＶ【影絵】",
         "artist": "Touhou-Project",
         "singer": "Alstroemeria",

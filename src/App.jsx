@@ -23,7 +23,7 @@ function App() {
 					</>
 				}
 			>
-				Miku-Playlist
+				25ji-Nightcord-Playlist
 				{' '}
 				<SongCount/>
 			</TopAppBar>
